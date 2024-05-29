@@ -1,0 +1,17 @@
+#jobselectdiv {
+    display: inline-flex;
+    padding: auto;
+}
+
+#jobselector {
+    height: 20px;
+    position: inherit;
+    margin-top: 20px;
+    width: 100px;
+}
+
+#jobistext {
+    height: 30px;
+    padding-right: 10px;
+}
+
